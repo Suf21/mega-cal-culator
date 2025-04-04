@@ -2,15 +2,16 @@
 
 ## What will (likely) be the title of your project?
 
-TODO
+TODO - Mega (Cal)culator 
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-TODO
+TODO - A app or website that will allow you to calculate your calories 
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-TODO
+TODO - My software will be able to calculate the users calories for the meal of their choice. It will have a drop down menu with the foods they would like to count. 
+it will be exucuted by the use of functions and if statements. I will also try to add feedback for the user after the calories have been conducted.
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
@@ -24,16 +25,17 @@ TODO, if applicable
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-TODO
+TODO - I get the calorie tracker to work and everything else works smoothly
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
-TODO
+TODO - a better outcome would be me being able to add a lot of more food options and a drop down menu for the app
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-TODO
+TODO - the best outcome would be me getting everything I just named down and also adding feedback for when the amount of calories are concluded
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+TODO - My next steps will be try to find what software works best with my project idea and I will need to learn how to use that software to the best of my abilities so I could get this done at a good time.
+Also I will need to find out how to write the code to this in the most efficient way.
