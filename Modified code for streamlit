@@ -23,6 +23,8 @@ def calculate_bmr(weight, height, age, gender):
 
 
 stream.title("(Cal)culator")
+stream.header(" By: Sufian Hassan (2025)")
+
 
 stream.header("Calculate your BMR")
 weight = stream.number_input("Enter weight (pounds):", min_value=0.0)
@@ -61,4 +63,5 @@ if stream.button("Calculate Deficit"):
 
 #pip install streamlit
 #streamlit run 
+
 
